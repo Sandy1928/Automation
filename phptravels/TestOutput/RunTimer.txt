@@ -1,0 +1,8 @@
+
+ PHPTravels Page Run Timer test output result 
+ Executed by 'xxxx' 
+ Date: 2019/06/23 19:51:19
+ Number of Test case: 1 started at 1561337478seconds
+ onTest test FAILED!!!
+ Number of test case: 1 finished at 1561337590 seconds
+ Elapsed time of tests execution: 111 seconds
